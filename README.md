@@ -1,5 +1,7 @@
 # Hi, I'm Junyong 👋
 
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@dydwns123123/posts)
+
 Aspiring AI/ML engineer exploring language models, retrieval systems, and AI behavior.
 
 ## What I'm Working On
