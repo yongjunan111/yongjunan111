@@ -19,4 +19,4 @@ Perceptrons → Backpropagation → RAG → Hybrid Retrieval → Sentence-BERT �
 
 ## Tech Stack
 
-`Python` `PyTorch` `RAG` `LangChain` `Claude Code` `uv`
+`Python` `RAG` `LLM/Prompt Engineering` `OpenAI API` `Django` `Docker` `AWS`
