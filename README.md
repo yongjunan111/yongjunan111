@@ -1,6 +1,6 @@
 # Hi, I'm Junyong 👋
 
-AI/ML engineer exploring the intersection of language models, retrieval systems, and AI behavior.
+Aspiring AI/ML engineer exploring language models, retrieval systems, and AI behavior.
 
 ## What I'm Working On
 
