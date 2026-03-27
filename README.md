@@ -11,7 +11,9 @@ AI Engineer building retrieval systems and data-driven services.
 
 🤝 [4brain-welfare](https://github.com/yongjunan111/4brain-welfare) — AI welfare policy recommendation for Seoul youth. BM25 + Dense + BGE Reranker hybrid retrieval, Hit@5 84.3%.
 
-💬 [SKN04-FINAL-4Team](https://github.com/yongjunan111/SKN04-FINAL-4Team) — CS Agent: sLLM + RAG chatbot. Led 2-person team (from 4) to 1st place at SK Networks AI Camp.
+💬 [SKN04-FINAL-4Team](https://github.com/yongjunan111/SKN04-FINAL-4Team) — CS Agent: sLLM + RAG chatbot. 7 embedding models benchmarked, HAQ dataset (768 laws + 9,665 articles). Led 2-person team (from 4) to 1st place at SK Networks AI Camp.
+
+## Experiments
 
 🧠 [consciousness-experiment](https://github.com/yongjunan111/consciousness-experiment) — Replicating "The Consciousness Cluster" findings via prompt-level manipulation across Sonnet 4.6, GPT-4.1, GPT-5.4.
 
